@@ -1,0 +1,27 @@
+- A good stock to SIP in will have:
+	- High Industry growth rate
+	- The firm should be building its market share
+		- A relatively new industry like AMC for example
+	- It should be able to protect its margins
+		- Via higher pricing, cost cutting, launching newer products etc
+- If all of the above happens, its more ideal
+- Industries/Sectors which can be SIPed in:
+	- Small Caps
+	- AMCs
+	- NBFC Small Caps
+	- US Tech majors
+- Keep emotions aside
+- Keep tracking individual stocks in your SIP watchlist
+- Strategy to pump money per month in a stock:
+	- Have a monthly budget - Example 30k
+	- Deploy only when NIFTY falls
+		- If it doesnt fall by 15th of a month, deploy half of the budget (15k)
+		- If it doesnt fall by 30th, deploy remaining
+- Step-up SIP
+	- When markets/stock is about to go up and when there is a scope for a growth of 20%+
+- Step-down SIP
+	- When the market is taking a breather and about to consolidate
+- Normal SIP
+	- When markets are in a consolidation phase
+- Bulk buy
+	- When something is at a massive discount

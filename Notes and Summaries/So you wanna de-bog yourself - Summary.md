@@ -1,0 +1,58 @@
+- The author uses a metaphor of being stuck knee-deep in a bog, unable to find dry land throughout the article. He mentions different ways of ending up "on the bog"
+- **Insufficient Activation Energy**
+	- Gutterballing:
+		- Times where you dont want to really do, but you still do them because a) you are good at it, b) it will give positive emotions to people who assign you the said things
+		- He says gutterballing is a guaranteed way of staying in the bog because people will actually applaud you for it
+	- Waiting for jackpot:
+		- Refusing to do anything until you come across an option that dominates all other options - the option to get you "spontaneous remission" of all your problems without actually doing anything on your end
+	- Declining the dragon:
+		- A version of "waiting for jackpot"
+		- Sometimes, you'll know exactly what to do to get out of the bog, but you're too afraid to do it and so you keep stuck in the bog
+		- But whenever you do the brave thing, its not the climax of your suffering but rather just the opposite he says
+		- "When I put off doing the brave thing, I am declining the dragon: missing an opportunity to do something that might be scary in the moment but would ultimately make me feel great"
+	- Mediocrity Trap:
+		- Situations where you are moderately unhappy, but not too unhappy to leave.
+	- Stroking the problem:
+		- Spending a lot of time thinking about your problems
+		- May look like a good use of time, but its just a form of socially acceptable anxiety - a way to continue your suffering indefinitely by becoming obsessed with it
+- **Bad Escape Plan**
+	- The "try harder" fallacy:
+		- The phenomenon of looking at your situation and concluding that, somehow you'll improve it in the future by just wishing it to be different (without any proper plan) and then getting bewildered that nothing of the sort happens.
+	- The infinite effort illusion:
+		- The idea that you have this secret unused stock of effort that you can use to get yourself unstuck from a situation.
+		- This never works because there is no Effort Reserve. All efforts are currently accounted for somewhere. If I wanted to spend more of it on something, I have to spend less of it somewhere else.
+		- If the effort is consistently not been put into something to get it done, its probably because you dont want to or you dont want to save time by sacrificing something else - a fact that you havent admitted to yourself yet
+	- Blaming God:
+		- Pinning the responsibility for your current predicament on something utterly unchangeable.
+		- God doesnt respond to whining
+	- Diploma problems and toothbrushing problems:
+		- Some problems are like Diploma problems - you work at it for a while, and then you are done forever. Learning how to ride a bike is a classic diploma problem
+		- Some problems are like toothbrushing problems - you have to work at them forever until you die. You cant brush your teeth really well and then let them ride forever.
+		- Its important to distinguish between the both of them to tackle them accordingly
+	- Puppeteering:
+		- "I'm only stuck because other people are unreasonable"
+		- Trying to solve your problems by controlling actions of other humans
+			- Getting pissed while driving - "Why doesnt he go there"
+			- Not putting me in charge - "If it were me, I would have done it right"
+		- This looks attractive because other people's actions seem silly and therefore easily changeable.
+			- They have a lieftime backstory that lead them to act the way that they do - [[How every decision you make is an extension of yourself]]
+			- Their actions are only as changeable as yours.
+- **A Bog of one's own**
+	- Floor is lava:
+		- The ability to pretend that fake problems are real
+			- "If you touch the carpet, you will be incinerated"
+		- Impostor syndrome comes from this phenomenon
+			- "Oh he's successful, I am not and everything I have done so far doesnt count if I have to be like him"
+	- Super surveillance:
+		- A kind of FOMO - keeping up with all the outrages. Constantly checking your phone or device in case any new outrage occurs - so you can "solve them?" As if they were your own problems
+		- We think its virtuous - looking at problems and feeling bad. But this doesnt solve any problem that we are monitoring whilst also driving us deeper into the bog
+	- Hedgehogging:
+		- Refusing to be influenced by others, even when you should
+	- Personal problems growth ray:
+		- Phenomenon which makes your problems seem larger than life while others' stay actual size.
+		- Makes reasonable solution look unreasonable - "the actions that solved your human-sized problems could never solve my giganto-problems"
+	- Obsessing over tiny predictors:
+		- When its scary to admit that you cant control the future so you distract yourself by trying to optimize every decision, no matter how insignificant
+	- Impossible satisfaction:
+		- When you have all raw materials for making a good life but you still cant seem to make one.
+			- Basically, you have to be grateful for things in life - relationships, education, normal amount of problems, roof over your head, food etc

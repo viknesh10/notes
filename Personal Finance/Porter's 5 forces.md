@@ -1,0 +1,7 @@
+- A business has to be analysed whether there is:
+	- A threat by a new entrant
+	- A threat by existing substitutes
+	- A power of customers
+	- A power of suppliers
+	- Competition in the industry
+- If the business satisfies all the above, it goes straight to core portfolio

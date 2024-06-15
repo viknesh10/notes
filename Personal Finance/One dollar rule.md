@@ -1,0 +1,9 @@
+- States that if a company makes a profit of $1, it should reach the customer eventually
+- It can reach the customer in any of the two ways:
+	- Dividend
+	- Retained earnings
+		- This reflects in the stock price
+- If neither of the above happens, then its a Red Flag and the stock should not be considered
+- This analysis should be done for all small and midcap companies
+- IF the retained earnings does not reflect on the stock, it could also be because of a sector beating. So, before coming to a conclusion, check peer stocks across the sector.
+	- This may also be a segment issue (across Small/Mid cap)

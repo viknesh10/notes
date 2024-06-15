@@ -1,0 +1,12 @@
+- Use a volume for persistent data:
+    - Create the volume
+    - Create your container
+- Mounted to a directory in the container
+- Data is written to the volume
+- Deleting a container doesn't delete a volume
+- First-class citizens
+- Uses the local driver
+- Third party drivers
+    - Block storage
+    - File storage
+    - Object storage

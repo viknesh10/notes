@@ -1,0 +1,16 @@
+- Container Network Model (CNM)
+- The libnetwork implements CNM:
+    - Docker uses this for connecting containers
+- Driver extend the model by network topologies:
+    - Network Drivers:
+        - bridge
+        - host
+        - overlay
+        - macvlan
+        - none
+        - 3rd party Network plugins
+- Container Network Model
+    - Defines three building blocks:
+        - Sandboxes
+        - Endpoints
+        - Networks

@@ -1,0 +1,9 @@
+- Look at hedging options. You need to decide if it’s going to be through debt instruments, gold or easily liquified assets like FDs 
+- Hard assets like Crypto need to be explored and tracked further
+- International diversification is something that needs to be explored as well. 
+- Having said all this, the first point is to [[Building an Investment Portfolio]] by indulging in consistent investments and savings by making it a **habit**. Once your portfolio is large enough (say 2-3x your annual income) then you can focus on how much returns you are getting. 
+- Be contrarian. 
+- Keep an eye on macro trends - be a [[Macroeconomics]] investor
+- There are times when you want to use SIPs; follow this -> [[SIP strategy]]
+- And some other times you might want to [[Swing Trade]]
+- The goal of [[Financial Freedom]] should never be lost track of

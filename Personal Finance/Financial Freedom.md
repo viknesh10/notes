@@ -1,0 +1,28 @@
+- There are 6 stages to Financial Freedom
+	- Dependence
+		- Starts from childhood, extends into adulthood
+		- As soon as our income surpasses our expenditure, we move to the next stage
+	- Solvency
+		- Being able to cover your financial obligations independently
+		- The real beginning of your financial journey
+	- Stability
+		- Its achieved when you have
+			- Built an emergency fund
+			- Paid off high interest debt
+			- Been consistently living within your means
+		- During this stage, you're not just managing your expenses, you are preparing yourself for the unexpected
+		- During this stage, you are also laying the groundwork for a secure financial future
+		- Debt is still okay at this stage, but having a buffer (an emergency fund) will provide you with a peace of mind
+		- You should not be spiralling into debt during a financial crisis
+		- Continuing to stay disciplined and make wise financial decisions at this stage will enable to build a solid financial foundation and move closer to Financial Freedom
+	- Security
+		- This is the stage where your stability transitions to confidence and peace of mind.
+		- You should have eliminated high interest debt or have enough assets to cover it in this stage.
+		- You're not just prepared for unexpected expenses, you're ready for anything life throws at you - unemployment or any other financial setback
+		- Surviving to thriving
+	- Independence
+		- Achieved when investment and/or passive income can cover your needs
+		- You've reached a level of financial self-sufficiency where you can CHOOSE to retire without worrying about how to sustain your lifestyle
+	- Freedom
+		- Having more than enough resources to cover your needs and desires
+		- Take calculated risks or pursue your passion

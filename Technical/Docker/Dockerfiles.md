@@ -1,0 +1,17 @@
+- Dockerfiles are instructions on how to build an image
+- The file contains all commands used to start a container:
+    - Docker image consists of read-only layers
+    - Each layer represents a Dockerfile instruction
+    - Layers are stacked
+    - Each layer is a delta of the changes from the previous layer
+    - Images are built using the docker image build command (with necessary flags)
+- General guidelines:
+    - Keep containers as ephemeral as possible
+    - Avoid including unnecessary files
+        - Use .dockerignore
+    - Use multi-stage builds to reduce the size of image size
+        - Dont include unnecessary packages
+        - Minimize the number of layers
+    - Decouple applications
+    - Sort multi-line arguments
+    - Leverage the build cache

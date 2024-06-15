@@ -1,0 +1,6 @@
+- If a variable is declared but not used, then its a compile time error.
+- If a variable is available in lower case and is in the package level, then the scope of that variable is ONLY in the package
+	- Any file in the same package can access it
+- If a variable is available in upper case and is in the package level, it is exported and the scope is global.
+- If a variable is declared in a block, the variable is scoped only to that block
+- A variable cannot be redeclared but it can be "shadowed" aka scoped

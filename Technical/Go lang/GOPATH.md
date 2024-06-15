@@ -1,0 +1,4 @@
+- The GOPATH is used to resolve import statements. 
+- Its implemented by and documented in the go/build package.
+- If the environment variable is unset, GOPATH defaults to a subdirectory "go" in the home directory of that particular user. 
+- Further reading - https://pkg.go.dev/cmd/go#hdr-GOPATH_environment_variable

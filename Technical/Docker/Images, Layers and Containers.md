@@ -1,0 +1,18 @@
+- Docker Images:
+    - Templates for containers - used to create an instance of a container
+    - Comprised of multiple layers
+    - They are build time constructs while containers are run time constructs
+    - An image cannot be deleted until all containers using that image have been deleted
+    - Built from instructions (Dockerfile)
+- Layers:
+    - Images are made of multiple layers
+    - Each layer represents an instruction in the image’s Dockerfile
+    - Each layer, except the very last one, is read-only
+    - Each layer is only a set of differences from the layer before it
+    - Containers add a new writable layer on top of the underlying layers
+    - All changes made to a running container are made to the container layer
+- Container and Layers:
+    - Containers are the top level writable layer
+    - All changes made are stored in the writable layer
+    - The writable layer is deleted when the container is deleted
+    - The image remains unchanged even after the container is deleted

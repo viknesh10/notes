@@ -1,0 +1,8 @@
+- Also known as Low Cash flow
+- During QT, the repo rates are increased, meaning, the lending rate from the central bank to the banks is raised and which in turn is trickled down to the customer
+- Higher interest rates mean less cash flows into the economy, thereby lowering demand.
+- This also slows down growth and usually a bear run ensures in such a period. The focus is not on growth rather keeping inflation in check
+- QT is done via
+	- Printing less money by the Central Bank
+	- Increasing interest rates
+- FMCG stocks in general do well during a QT period

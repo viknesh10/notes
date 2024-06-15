@@ -1,0 +1,10 @@
+- Go code are organised as packages
+- Packages are a collection of source files the same directory that are compiled together. 
+	- Functions, types, variables and constants defined in one source are accessible across all other source files in the same package
+- A repository consists of one or more modules
+	- A module is a collection of related Go packages that are released together. 
+		- A repository usually consists of only one module, located at the root of the repository. 
+		- A file named go.mod declares the module path, which is the import path prefix for all the packages within that module.
+- An import path is a string used to import a package.
+	- An import path is its module path joined with its subdirectory within the module.
+	- Packages in the standard library do not have a module path prefix

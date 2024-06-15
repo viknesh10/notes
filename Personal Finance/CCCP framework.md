@@ -1,0 +1,6 @@
+- Fit businesses into this framework for better analysis
+	- Client
+	- Competition/Competitors
+	- Customer preference
+	- Product
+- Evaluate a business every 3 years using this framework

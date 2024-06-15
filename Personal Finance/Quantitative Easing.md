@@ -1,0 +1,10 @@
+- Also known as High Cash flow
+- During QE, the repo rates are cut, meaning, the lending rate from the central bank to the banks is slashed and which in turn is trickled down to the customer
+- Lower/Affordable interest rates mean more cash flows into the economy, fuelling growth and hence move the market (usually a bull run is triggered in these scenarios)
+	- Mostly due to the fact that safe instruments like FDs lower their interest rates during this period and hence more money flows into Equities
+- It also drives inflation eventually
+- QE is done via
+	- Printing money by the Central Bank
+	- Bond sales
+- Finance stocks in general do well during a QE period
+	- Private banks, Public sector banks, NBFCs, AMCs etc

@@ -1,0 +1,4 @@
+- This is an overview of macroeconomics from the context of the stock markets
+- There are two types of cash flow classifications:
+	- [[Quantitative Easing]]
+	- [[Quantitative Tightening]]

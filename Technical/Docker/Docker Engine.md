@@ -1,0 +1,52 @@
+
+- Modular in design
+- Batteries included but replaceable
+- Based on open standards outlined by Open Container Initiative
+- The major components:
+    - Docker client
+    - Docker daemon
+    - containerd
+    - runc
+- **Open Container Initiative:**
+    - Contains two specs:
+        - Image spec
+        - Container runtime spec
+    - Docker, Inc. heavily contributed to the OCI
+- runc:
+    - Implementation of the OCI container runtime spec
+    - Lightweight CLI wrapper for libcontainer
+    - Sole purpose is to create containers
+- containerd:
+    - Manages container lifecycle:
+        - Start
+        - Stop
+        - Pause
+        - Delete
+    - Image management
+        - Used to push and pull images
+- shim:
+    - Implementation of daemonless containers
+    - containerd forks an instance of runc for each new container
+    - runc process exits after the container is created
+    - shim process then becomes the new container parent which enables us to run hundreds of container instances without having to run hundreds of runc instances
+    - It’s also responsible for keeping standard-in (STDIN) and standard-out (STDOUT) streams open
+        - This means the container doesnt go and terminate due to closed pipes when the daemon restarts
+    - Also responsible for reporting the exit status to the Docker daemon
+- Running Containers:
+```
+docker container run -it —name <NAME> <IMAGE>:<TAG>
+```
+- Creating a container
+    - Use the CLI to execute a command
+    - Docker client uses the appropriate API payload
+    - POSTs to the correct API endpoint
+    - The Docker daemon receives instructions
+    - It then calls containerd to start a new container
+    - The Docker daemon uses gRPC
+    - containerd then creates an OCI bundle from the Docker Image
+    - Tells runc to create a container using the OCI bundle
+    - runc interfaces with the OS kernel to get constructs needed to create a container
+    - Includes namespaces, cgroups, etc
+    - The container process is started as a child process
+    - Once container starts, runc will exit which leads shim to take over as the parent
+    - This completes the process and the container is now running
