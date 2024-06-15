@@ -1,3 +1,9 @@
+---
+title: So you wanna de-bog yourself - Summary
+draft: false
+tags:
+---
+
 - The author uses a metaphor of being stuck knee-deep in a bog, unable to find dry land throughout the article. He mentions different ways of ending up "on the bog"
 - **Insufficient Activation Energy**
 	- Gutterballing:
