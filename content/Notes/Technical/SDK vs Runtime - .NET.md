@@ -1,5 +1,0 @@
-- The SDK is used to make development of #dotnetcore apps easier
-	- Consists of CLI and a compiler
-- The runtime is the virtual machine that runs the application
-	- Interacts with the operating system
-	- The runtime is also part of the SDK

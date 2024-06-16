@@ -1,31 +1,9 @@
+Hello 👋, I am Viknesh Subramanian and this is my Digital Garden.
+I want to use this space to share and grow my thoughts on topics that interest me. I hope you find this interesting as much as I do.
 
-Quartz can generate a list of recent notes based on some filtering and sorting criteria. Though this component isn't included in any [[layout]] by default, you can add it by using `Component.RecentNotes` in `quartz.layout.ts`.
+I am a FullStack Software Engineer (specialising in .NET) by profession with over 9 years of experience in the field with an inclination towards Backend development.
 
-## Customization
+However, I don't want my profession to be my sole identity (I swear the domain has nothing to do with my primary skill set 😇) and thats one of the major reasons of me starting this space to explore my interests further and also learn new stuff.
 
-- Changing the title from "Recent notes": pass in an additional parameter to `Component.RecentNotes({ title: "Recent writing" })`
-- Changing the number of recent notes: pass in an additional parameter to `Component.RecentNotes({ limit: 5 })`
-- Display the note's tags (defaults to true): `Component.RecentNotes({ showTags: false })`
-- Show a 'see more' link: pass in an additional parameter to `Component.RecentNotes({ linkToMore: "tags/components" })`. This field should be a full slug to a page that exists.
-- Customize filtering: pass in an additional parameter to `Component.RecentNotes({ filter: someFilterFunction })`. The filter function should be a function that has the signature `(f: QuartzPluginData) => boolean`.
-- Customize sorting: pass in an additional parameter to `Component.RecentNotes({ sort: someSortFunction })`. By default, Quartz will sort by date and then tie break lexographically. The sort function should be a function that has the signature `(f1: QuartzPluginData, f2: QuartzPluginData) => number`. See `byDateAndAlphabetical` in `quartz/components/PageList.tsx` for an example.
-- Component: `quartz/components/RecentNotes.tsx`
-- Style: `quartz/components/styles/recentNotes.scss`
-# Quartz v4
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+**Work in progress**
+This space is forever intended to be a work in progress so a lot of notes/seeds will move around. In due course I'll update these sections to add more detail but I want to give a note of thanks to my brother-in-law [Thiruppathi Muthukumar](https://thiru.xyz/) for introducing me into the world of Process Knowledge Management a couple of years back when I called him to rant about my frequent forgetfulness when it came to his book suggestions. I also want to give a quick thank you to Bhavani Ravi's useful guide on setting up Gitbook.
