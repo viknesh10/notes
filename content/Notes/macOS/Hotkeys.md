@@ -1,0 +1,4 @@
+- CMD + Shift + .
+	- Displays hidden files
+- CMD + Y
+	- Shows Chrome history
