@@ -22,3 +22,17 @@ docker build -t <tag-name> .
 - The docker build command uses the Dockerfile to build a new image. 
 - The -t flag tags the image followed by the tag-name which is just a human readable name for the final image.
 	- This tag-name can be referred to when you run the container
+- Run your container using the following command
+```
+docker run -dp 127.0.0.1:3000:3000 <tag-name>
+```
+- The -d flag runs the container in the background. This means that Docker starts your container and returns you to the terminal
+	- The -d flag stands for --detach
+- The -p flag creates a port mapping between the host and the container.
+	- The -p flag stands for --publish
+- The -p flag takes a string value in the format of HOST:CONTAINER, where HOST is the address on the host and CONTAINER is the port on the container.
+	- The command publishes port 3000 (the container's port) to 127.0.0.1:3000 on the host.
+```
+docker ps
+```
+- The above command is used to list out the running containers.
