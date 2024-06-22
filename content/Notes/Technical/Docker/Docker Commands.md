@@ -1,4 +1,5 @@
-# Getting started
+## Getting started
+
 - Create an empty [[Dockerfile]] in the directory
 ```
 touch Dockerfile
@@ -36,3 +37,19 @@ docker run -dp 127.0.0.1:3000:3000 <tag-name>
 docker ps
 ```
 - The above command is used to list out the running containers.
+
+## Update the application
+
+- To re-build your image or to update the version of the image, use the same build command as stated in the Getting Started section.
+- Get container id
+```
+docker ps
+```
+- Stop running container
+```
+docker stop <container-id>
+```
+- Removing the old container
+```
+docker rm <container-id>
+```
