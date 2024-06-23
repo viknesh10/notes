@@ -1,3 +1,6 @@
+- Each container starts from the image definition each time it starts
+- While containers can create, update and delete files, those changes are lost when you remove the container and Docker isolates all changes to that container.
+- This also includes data loss every time. However, thats where Docker Volumes come in.
 - Use a volume for persistent data:
     - Create the volume
     - Create your container

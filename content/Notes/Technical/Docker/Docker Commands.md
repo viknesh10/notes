@@ -53,3 +53,21 @@ docker stop <container-id>
 ```
 docker rm <container-id>
 ```
+
+## Persistance
+
+- Create a volume:
+```
+docker volume create <volume-name>
+```
+- Mount the volume in your container
+```
+docker run -dp 127.0.0.1:3000:3000 --mount type=volume,src=<volume-name>,target=<volume-target> <tag-name>
+```
+- The --mount flag allows you to specify a volume mount. 
+- You can inspect the volume using the following command
+```
+docker volume inspect <volume-name>
+```
+- This will enable you to see where Docker is storing your data when you use a volume.
+
