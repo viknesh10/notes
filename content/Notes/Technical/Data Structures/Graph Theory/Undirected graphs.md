@@ -1,0 +1,2 @@
+- Edge (u, v) implies (v, u)
+	- If an edge exists from u to v, it is also implied that an edge from vertex v to u

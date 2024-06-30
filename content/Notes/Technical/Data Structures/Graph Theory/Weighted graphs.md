@@ -1,0 +1,1 @@
+- Type of graph where each edge is not treated equally and some edges might have a larger weight than others

@@ -1,0 +1,6 @@
+- Edges are unidirectional
+- Two types
+	- Directed Cyclic Graphs
+		- A graph which has a cycle and is directed
+	- Directed Acyclic Graphs
+		- If a graph is directed and contains no cycles
