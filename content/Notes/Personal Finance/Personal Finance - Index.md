@@ -1,2 +1,4 @@
 This folder consists of the following note(s):
-1. [[Investment Thesis]]
+1. [[Financial Freedom]]
+2. [[Macroeconomics]]
+3. [[Investment Thesis]]

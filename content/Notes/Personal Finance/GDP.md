@@ -1,0 +1,16 @@
+- Health of an economy is measured by Gross Domestic Product
+- Basically means Total (Final) Value of all goods/services within a country's borders
+	- In a given year
+- There are certain goods which are used to make other goods but are still considered final goods.
+	- They're called Capital Goods
+- Four types of Final Goods/Services:
+	- Consumer
+	- Business
+	- Government
+	- Net exports
+- Two types of GDP:
+	- Nominal
+	- Real
+		- Nominal GDP but includes inflation data
+- More accurate analysis is to GDP per capita as a lot of factors are not considered in GDP
+- GDP per capita = GDP/total population
