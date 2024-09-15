@@ -1,7 +1,7 @@
 - This is an overview of macroeconomics from the context of the stock markets
 - Commonly used terms:
 	- [[GDP]]
-	- [[Currency and Gold]]
+	- [[Supply and Demand]]
 - There are two types of cash flow classifications:
 	- [[Quantitative Easing]]
 	- [[Quantitative Tightening]]
