@@ -2,6 +2,7 @@
 - Commonly used terms:
 	- [[GDP]]
 	- [[Supply and Demand]]
+	- [[Currency and Gold]]
 - There are two types of cash flow classifications:
 	- [[Quantitative Easing]]
 	- [[Quantitative Tightening]]
