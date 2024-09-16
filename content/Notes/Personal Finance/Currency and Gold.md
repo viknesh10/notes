@@ -1,0 +1,8 @@
+- Gold is finite
+- That makes it more valuable and a safe haven during times of uncertainty/volatility.
+- The price of gold is usually inversely related to the value of US dollar. This is because the metal is dollar-denominated
+- A strong dollar tends to keep the price of gold lower and more controlled, while a weak dollar is likely to drive the price of gold higher
+	- This is because more gold can be purchased when the dollar (or any other currency for that matter) is weak
+	- Its often used as a hedge instrument against inflation
+	- Weak currency means the purchase power of the currency is low which in turn means inflation is high which then in turn means that gold is a safer instrument during such times
+- Many countries hold reserves in foreign currencies (like the US dollar or euro) or gold to back their own currency in times of crisis, which builds confidence in its stability.
